@@ -1,15 +1,12 @@
 ## Hi, i'm Rizco Renova 👋
 
-<img align="right" src="https://komarev.com/ghpvc/?username=renova213&style=flat&color=d83a7c" alt="viewer" />
-
-- I’m currently learning Flutter and Python
+- I’m student at university bina sarana informatika
 
 # 🔥 About Me :
 
-- 📖 I'm currently learning flutter
-- 💬 Ask me about Flutter
+- 📖 I'm currently learning flutter, java and go
 - 😄 Pronouns: He/His
-- 📫 How to reach me: [Facebook](https://www.facebook.com/rizcorenova/) — [Email](email:rizcorenova31@gmail.com) — [LinkedIn](https://www.linkedin.com/in/rizco-renova-490059240/)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/rizcorenova/) — [Email](rizcorenova31@gmail.com) — [LinkedIn](https://www.linkedin.com/in/rizco-renova-490059240/)
 
 # 💻Tech Stack
 
@@ -17,5 +14,4 @@
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=renova213&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renova213&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=renova213&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true)
